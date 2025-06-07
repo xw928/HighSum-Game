@@ -16,9 +16,12 @@ The game features a complete GUI interface with login authentication, card shuff
 <br>
 
 ## Login
+<li>Username: IcePeak</li>
+<li>Password: password</li>
 <div align="center">
   <img src="images/interface/login.png" style="width:500px;" alt="login">
 </div>
+
 <br>
 
 ## Shuffle Deck
