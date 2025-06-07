@@ -53,12 +53,3 @@ The game features a complete GUI interface with login authentication, card shuff
   <img src="images/interface/win.png" style="width:500px;" alt="win">
 </div>
 <br>
-
-
-
-### Calculator
-<div align="center">
-  <img src="static/interface/calculator.png" style="width:500px;" alt="calculator">
-</div>
-<br>
-
